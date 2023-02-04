@@ -1,0 +1,44 @@
+
+@media only screen and (min-width:550px){
+    body{
+        margin: 0%;
+    }
+    
+    
+    
+    
+    .layer1{
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(255, 255, 255);
+        align-items: center;
+    }
+    .layer1 .logo{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .layer1 .tit{
+        display: flex;
+        flex-direction: row;
+        
+        
+    }
+    .layer1 .owl{
+        align-self: center;
+    }
+    .tit .main{
+        font-size: 70px;
+        align-self: center;
+    
+    }
+    .tit .main2{
+        font-size: 70px;
+        color: rgb(101, 103, 104);
+        align-self: center;
+    
+    }
+
+}
+
+
